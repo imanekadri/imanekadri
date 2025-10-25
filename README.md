@@ -1,9 +1,9 @@
-# Hi there 👋, I'm Imane Kadri
+### Hi there 👋, I'm Imane Kadri
 
 I'm a **Computer Science student** currently in **Master 1 - Intelligence Artificielle Appliquée (I2A)** at the University of Boumerdes.  
 I'm passionate about **Artificial Intelligence, Machine Learning, and Cybersecurity**, and I love building projects that challenge me and help me learn.
 
----
+-
 
 ## 🔧 Skills & Tools
 - **Languages:** Python, C, C++, Java, HTML, CSS, JavaScript, XML  
