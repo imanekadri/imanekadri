@@ -15,28 +15,30 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) 
+
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) 
+
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+
 ![XML](https://img.shields.io/badge/XML-FF6600?style=flat&logo=xml&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
+
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
----
-
-## 💻 Projects
-
-- **[My Website](https://github.com/imanekadri/portfolio)** – Personal portfolio website built with HTML, CSS, and JS  
-- **[Password Manager](https://github.com/imanekadri/password-manager)** – Simple app to store passwords securely  
-- **[Sales Analysis](https://github.com/imanekadri/sales-analysis)** – Data visualization project using Python  
-*(More projects coming soon…)*
 
 ---
 
